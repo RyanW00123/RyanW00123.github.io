@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Snake",
-"productVersion": "1.2",
+"productVersion": "1.21",
 "dataUrl": "WebGLExport.data.unityweb",
 "wasmCodeUrl": "WebGLExport.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGLExport.wasm.framework.unityweb",
